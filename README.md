@@ -42,7 +42,7 @@ Ensure you have **Node.js** and **npm** installed on your machine.
 
 1.  **Clone the repository**
     ```bash
-   git clone [https://github.com/Saeeee2007/SubSlayer-Subscription-Tracker-.git]
+   git clone [https://github.com/Saeeee2007/SubSlayer-Finale-V3.git]
 
 2.  **Navigate to the project directory**
     ```bash
