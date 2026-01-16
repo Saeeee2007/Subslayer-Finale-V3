@@ -68,4 +68,5 @@ While this version represents the MVP (Minimum Viable Product) submitted for Hac
 
 ---
 
-*Designed and Develo
+*Designed and Developed by Saee Deshpande for Hackathon
+
